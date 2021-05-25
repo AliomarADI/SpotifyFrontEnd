@@ -1,0 +1,12 @@
+#sideBarButtons {
+  background-color: black;
+  color: white;
+  width: 100%;
+  border-radius: 0%;
+}
+
+#sideBarButtons:hover{
+  border-left: 5px rgba(0,158,29,1) solid;
+  font-size: 120%;
+  transition: 500ms;
+}

@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "spotifyFrontEnd"
+    }
+  },
+  "defaultProject": "spotifyFrontEnd",
+  "cli": {
+    "analytics": false
+  }
 }
